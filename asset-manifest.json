@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dmytroborodin.github.io/social_network_v1/static/css/main.5c00888f.chunk.css",
+    "main.js": "/dmytroborodin.github.io/social_network_v1/static/js/main.c2b11005.chunk.js",
+    "main.js.map": "/dmytroborodin.github.io/social_network_v1/static/js/main.c2b11005.chunk.js.map",
+    "runtime-main.js": "/dmytroborodin.github.io/social_network_v1/static/js/runtime-main.e3312e32.js",
+    "runtime-main.js.map": "/dmytroborodin.github.io/social_network_v1/static/js/runtime-main.e3312e32.js.map",
+    "static/js/2.f3244739.chunk.js": "/dmytroborodin.github.io/social_network_v1/static/js/2.f3244739.chunk.js",
+    "static/js/2.f3244739.chunk.js.map": "/dmytroborodin.github.io/social_network_v1/static/js/2.f3244739.chunk.js.map",
+    "index.html": "/dmytroborodin.github.io/social_network_v1/index.html",
+    "precache-manifest.0f50a8c685c834c964f4625947119e20.js": "/dmytroborodin.github.io/social_network_v1/precache-manifest.0f50a8c685c834c964f4625947119e20.js",
+    "service-worker.js": "/dmytroborodin.github.io/social_network_v1/service-worker.js",
+    "static/css/main.5c00888f.chunk.css.map": "/dmytroborodin.github.io/social_network_v1/static/css/main.5c00888f.chunk.css.map",
+    "static/js/2.f3244739.chunk.js.LICENSE.txt": "/dmytroborodin.github.io/social_network_v1/static/js/2.f3244739.chunk.js.LICENSE.txt",
+    "static/media/loupe.png": "/dmytroborodin.github.io/social_network_v1/static/media/loupe.9d3b8c4d.png",
+    "static/media/user.jpg": "/dmytroborodin.github.io/social_network_v1/static/media/user.6eb99065.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3312e32.js",
+    "static/js/2.f3244739.chunk.js",
+    "static/css/main.5c00888f.chunk.css",
+    "static/js/main.c2b11005.chunk.js"
+  ]
+}
